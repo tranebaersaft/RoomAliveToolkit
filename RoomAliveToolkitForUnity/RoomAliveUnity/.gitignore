@@ -5,3 +5,6 @@
 /.vs/
 
 Assets/MoveGameWindow.*
+/UnityPackageManager/
+*.sln
+*.csproj
